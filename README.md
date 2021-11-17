@@ -1,4 +1,4 @@
-# Spanish_Covid_Corpus
+# word2vec with Spanish_Covid_Corpus
 
 This corpus is the corpus that was built in the paper below. Two word embedding files with FastText's Skip-gram and CBOW method have uploaded. The uploaded word2vec file is made up of the data collected until April, 2021. 
 
