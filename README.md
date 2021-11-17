@@ -1,8 +1,8 @@
 # Spanish_Covid_Corpus
 
-This corpus is the corpus that was built in the paper below. Two word embedding files with FastText's Skip-gram and CBOW method have uploaded. 
+This corpus is the corpus that was built in the paper below. Two word embedding files with FastText's Skip-gram and CBOW method have uploaded. The uploaded word2vec file is made up of the data collected until April, 2021. 
 
-Este corpus es el corpus que se construyó en el documento siguiente. Dos versión de la incrustación de palabras con los métodos Skip-gram y CBOW de FastText han subido. 
+Este corpus es el corpus que se construyó en el documento siguiente. Dos versión de la incrustación de palabras con los métodos Skip-gram y CBOW de FastText han subido. El archivo word2vec subido se compone de los datos recopilados hasta abril de 2021.
 
 
 #### Article
