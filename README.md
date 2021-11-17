@@ -6,4 +6,4 @@ Este corpus es el corpus que se construy√≥ en el documento siguiente. Dos versi√
 
 
 #### Article
-Hwang, K. (2021). Constructing Corpus and Word Embedding for Spanish Covid-19 Data. Procesamiento del Lenguaje Natural, 67, 37-44.`
+Hwang, K. (2021). Constructing Corpus and Word Embedding for Spanish Covid-19 Data. Procesamiento del Lenguaje Natural, 67, 37-44.
